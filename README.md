@@ -1,6 +1,23 @@
-# Etiquetes #FpExperiencies
+**Hashtag oficial per compartir material i experiències a FP d'Informàtica**
 
-## Sistema d’etiquetes (hashtags) per compartir material docent dels cicles formatius de la família d'Informàtica i Comunicacions.
+# `#FpExperiencies`
+
+**Hashtags complementaris**
+
+```
+#Asix
+#DamMp10
+#DawMp02Uf1
+#Java
+#BasesDeDades
+#Gamificació
+```
+
+---
+
+# Etiquetes `#FpExperiencies`
+
+Sistema d’etiquetes (hashtags) per compartir material docent dels cicles formatius de la família d'Informàtica i Comunicacions.
 
 Pots compartir el teu material afegint les etiquetes que el descriguin.
 
@@ -9,19 +26,6 @@ Per trobar material, indica l’etiqueta que t’interessi a un cercador d’Int
 Si usted plau, respecta la llicència dels material i esmenta l’autor original.
 
 
-### HASHTAG OFICIAL PER COMPARTIR MATERIAL I EXPERIÈNCIES
-
-# #FpExperiencies
-
-
-#### HASHTAGS COMPLEMENTARIS
-
-* #Asix
-* #DamMp10
-* #DawMp02Uf1
-* #Java
-* #BasesDeDades
-* #Gamificació
 
 ## Ús i nomenclatura
 
@@ -29,11 +33,10 @@ Les etiquetes estan organitzades de més general a més concret per facilitar le
 
 ### Etiqueta principal
 
-#FpExperiencies
+`#FpExperiencies`
 
 ### Cicle
-#Cf
-
+`#Cf`
 > Cf son les sigles del cicle formatiu (Smx, Asix, Dam, Daw)
 
 Exemple
@@ -44,7 +47,7 @@ Exemple
 
 ### Mòdul
 
-#CfMpXX
+`#CfMpXX`
 > `XX` és el número de mòdul professional, amb 2 dígits
 
 Exemples:
@@ -57,7 +60,7 @@ Exemples:
 
 ### Unitat formativa
 
-#CfMpXXUfY
+`#CfMpXXUfY`
 >  `Y` és el número d’unitat formativa, amb un dígit.
 
 Exemples:
@@ -131,4 +134,4 @@ Aquestes són totes les equivalències:
 #DawMp04Uf03 #AsixMp04Uf03 #DamMp04Uf03
 ```
 
-Es recomana posar totes les equivalències.
+Es recomana posar totes les equivalències.
