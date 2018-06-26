@@ -108,30 +108,6 @@ Aquestes són totes les equivalències:
 #AsixMp04Uf01 #DawMp04Uf01 #DamMp04Uf01
 #AsixMp04Uf02 #DawMp04Uf02 #DamMp04Uf02
 #AsixMp04Uf03 #DawMp04Uf03 #DamMp04Uf03
-#DamMp01Uf01 #DawMp01Uf01 #AsixMp01Uf01
-#DamMp01Uf02 #DawMp01Uf02 #AsixMp01Uf02
-#DamMp01Uf03 #DawMp01Uf03 #AsixMp01Uf03
-#DamMp02Uf01 #DawMp02Uf01 #AsixMp02Uf01
-#DamMp02Uf02 #DawMp02Uf02 #AsixMp02Uf02
-#DamMp02Uf03 #DawMp02Uf03 #AsixMp02Uf03
-#DamMp03Uf01 #DawMp03Uf01 #AsixMp03Uf01
-#DamMp03Uf02 #DawMp03Uf02 #AsixMp03Uf02
-#DamMp03Uf03 #DawMp03Uf03 #AsixMp03Uf03
-#DamMp04Uf01 #DawMp04Uf01 #AsixMp04Uf01
-#DamMp04Uf02 #DawMp04Uf02 #AsixMp04Uf02
-#DamMp04Uf03 #DawMp04Uf03 #AsixMp04Uf03
-#DawMp01Uf01 #AsixMp01Uf01 #DamMp01Uf01
-#DawMp01Uf02 #AsixMp01Uf02 #DamMp01Uf02
-#DawMp01Uf03 #AsixMp01Uf03 #DamMp01Uf03
-#DawMp02Uf01 #DamMp02Uf01 #AsixMp02Uf01
-#DawMp02Uf02 #AsixMp02Uf02 #DamMp02Uf02
-#DawMp02Uf03 #AsixMp02Uf03 #DamMp02Uf03
-#DawMp03Uf01 #AsixMp03Uf01 #DamMp03Uf01
-#DawMp03Uf02 #AsixMp03Uf02 #DamMp03Uf02
-#DawMp03Uf03 #AsixMp03Uf03 #DamMp03Uf03
-#DawMp04Uf01 #AsixMp04Uf01 #DamMp04Uf01
-#DawMp04Uf02 #AsixMp04Uf02 #DamMp04Uf02
-#DawMp04Uf03 #AsixMp04Uf03 #DamMp04Uf03
 ```
 
 Es recomana posar totes les equivalències.
