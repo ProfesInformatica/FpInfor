@@ -38,7 +38,9 @@ Les etiquetes estan organitzades de més general a més concret per facilitar le
 
 Exemple
 
+```
 #FpExperiencies #Smx
+```
 
 ### Mòdul
 
@@ -46,11 +48,12 @@ Exemple
 > `XX` és el número de mòdul professional, amb 2 dígits
 
 Exemples:
-
-#FpExperiencies #Smx-Mp05
-#FpExperiencies #Asix-Mp01
-#FpExperiencies #Dam-Mp10
-#FpExperiencies #Daw-Mp08
+```
+#FpExperiencies #SmxMp05
+#FpExperiencies #AsixMp01 #DamMp01 #DawMp01
+#FpExperiencies #DamMp10
+#FpExperiencies #DawMp08
+```
 
 ### Unitat formativa
 
@@ -58,29 +61,32 @@ Exemples:
 >  `Y` és el número d’unitat formativa, amb un dígit.
 
 Exemples:
-
+```
 #FpExperiencies #SmxMp05Uf3
 #FpExperiencies #AsixMp10Uf1
+```
 
 ### Àmbit
 Podem etiquetar el material segons l’àmbit a la que pertanyen
 
 Exemples:
-
+```
 #FpExperiencies #Programació
 #FpExperiencies #SistemesOperatius #SmxMp02Uf1
 #FpExperiencies #BasesDeDades
 #FpExperiencies #Maquinari
 #FpExperiencies #Web
+```
 
 ### Altres
 També podem etiquetar el material segons la tecnologia, llenguatge, producte, metodologia didàctica, etc...
 
 Exemples:
-
+```
 #FpExperiencies #Dam #Java
 #FpExperiencies #WindowsServer #AsixMp01Uf02 #DawMp01Uf02 #DamMp01Uf02
 #FpExperiencies #Gamificació
+```
 
 ### Unitats formatives equivalents
 Cal recordar que els tres cicles formatius de grau superior tenen algunes unitats formatives idèntiques entre els seus mòduls.
