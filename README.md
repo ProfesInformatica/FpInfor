@@ -1,6 +1,6 @@
 **Hashtag oficial per compartir material i experiències a FP d'Informàtica**
 
-# `#FpExperiencies`
+# `#FpInfor`
 
 **Hashtags complementaris**
 
@@ -15,7 +15,7 @@
 
 ---
 
-# Etiquetes `#FpExperiencies`
+# Etiquetes `#FpInfor`
 
 Sistema d’etiquetes (hashtags) per compartir material docent dels cicles formatius de la família d'Informàtica i Comunicacions.
 
@@ -33,7 +33,7 @@ Les etiquetes estan organitzades de més general a més concret per facilitar le
 
 ### Etiqueta principal
 
-`#FpExperiencies`
+`#FpInfor`
 
 ### Cicle
 `#Cf`
@@ -42,7 +42,7 @@ Les etiquetes estan organitzades de més general a més concret per facilitar le
 Exemple
 
 ```
-#FpExperiencies #Smx
+#FpInfor #Smx
 ```
 
 ### Mòdul
@@ -52,10 +52,10 @@ Exemple
 
 Exemples:
 ```
-#FpExperiencies #SmxMp05
-#FpExperiencies #AsixMp01 #DamMp01 #DawMp01
-#FpExperiencies #DamMp10
-#FpExperiencies #DawMp08
+#FpInfor #SmxMp05
+#FpInfor #AsixMp01 #DamMp01 #DawMp01
+#FpInfor #DamMp10
+#FpInfor #DawMp08
 ```
 
 ### Unitat formativa
@@ -65,8 +65,8 @@ Exemples:
 
 Exemples:
 ```
-#FpExperiencies #SmxMp05Uf3
-#FpExperiencies #AsixMp10Uf1
+#FpInfor #SmxMp05Uf3
+#FpInfor #AsixMp10Uf1
 ```
 
 ### Àmbit
@@ -74,11 +74,11 @@ Podem etiquetar el material segons l’àmbit a la que pertanyen
 
 Exemples:
 ```
-#FpExperiencies #Programació
-#FpExperiencies #SistemesOperatius #SmxMp02Uf1
-#FpExperiencies #BasesDeDades
-#FpExperiencies #Maquinari
-#FpExperiencies #Web
+#FpInfor #Programació
+#FpInfor #SistemesOperatius #SmxMp02Uf1
+#FpInfor #BasesDeDades
+#FpInfor #Maquinari
+#FpInfor #Web
 ```
 
 ### Altres
@@ -86,9 +86,9 @@ També podem etiquetar el material segons la tecnologia, llenguatge, producte, m
 
 Exemples:
 ```
-#FpExperiencies #Dam #Java
-#FpExperiencies #WindowsServer #AsixMp01Uf02 #DawMp01Uf02 #DamMp01Uf02
-#FpExperiencies #Gamificació
+#FpInfor #Dam #Java
+#FpInfor #WindowsServer #AsixMp01Uf02 #DawMp01Uf02 #DamMp01Uf02
+#FpInfor #Gamificació
 ```
 
 ### Unitats formatives equivalents
