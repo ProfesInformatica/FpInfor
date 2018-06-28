@@ -7,7 +7,7 @@
 ```
 #Asix
 #DamMp10
-#DawMp02Uf1
+#SmxMp02Uf1
 #Java
 #BasesDeDades
 #Gamificació
@@ -23,7 +23,7 @@ Pots compartir el teu material afegint les etiquetes que el descriguin.
 
 Per trobar material, indica l’etiqueta que t’interessi a un cercador d’Internet.
 
-Si usted plau, respecta la llicència dels material i esmenta l’autor original.
+Si us plau, respecta la llicència dels material i esmenta l’autor original.
 
 
 
