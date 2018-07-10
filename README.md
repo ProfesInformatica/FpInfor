@@ -52,7 +52,7 @@ Exemple
 ### Mòdul
 
 `#CfMpXX`
-> `XX` és el número de mòdul professional, amb 2 dígits
+> `XX` és el número de mòdul professional, amb **2 dígits**
 
 Exemples:
 ```
@@ -64,13 +64,13 @@ Exemples:
 
 ### Unitat formativa
 
-`#CfMpXXUfY`
->  `Y` és el número d’unitat formativa, amb un dígit.
+`#CfMpXXUfYY`
+>  `YY` és el número d’unitat formativa, amb **2 dígits.**
 
 Exemples:
 ```
-#FpInfor #SmxMp05Uf3
-#FpInfor #AsixMp10Uf1
+#FpInfor #SmxMp05Uf03
+#FpInfor #AsixMp10Uf01
 ```
 
 ### Àmbit
@@ -79,7 +79,7 @@ Podem etiquetar el material segons l’àmbit a la que pertanyen
 Exemples:
 ```
 #FpInfor #Programació
-#FpInfor #SistemesOperatius #SmxMp02Uf1
+#FpInfor #SistemesOperatius #SmxMp02Uf01
 #FpInfor #BasesDeDades
 #FpInfor #Maquinari
 #FpInfor #Web
