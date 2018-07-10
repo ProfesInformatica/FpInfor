@@ -7,11 +7,15 @@
 ```
 #Asix
 #DamMp10
-#SmxMp02Uf1
+#SmxMp02Uf01
 #Java
 #BasesDeDades
 #Gamificació
 ```
+
+### Exemple etiqueta `#DawMp03Uf04`
+
+![./sample_images/DawMp03Uf04.png](./sample_images/DawMp03Uf04.png)
 
 ---
 
@@ -113,10 +117,6 @@ Aquestes són totes les equivalències:
 Es recomana posar totes les equivalències.
 
 ## Exemples:
-
-### Etiqueta `#DawMp03Uf04`
-
-![./sample_images/DawMp03Uf04.png](./sample_images/DawMp03Uf04.png)
 
 ### Etiqueta `#AsixMp01`
 
