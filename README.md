@@ -111,3 +111,13 @@ Aquestes són totes les equivalències:
 ```
 
 Es recomana posar totes les equivalències.
+
+## Exemples:
+
+### Etiqueta `AsixMp01`
+
+![./sample_images/AsixMp01.png](./sample_images/AsixMp01.png)
+
+### Etiqueta `AsixMp02Uf02`
+
+![./sample_images/AsixMp02Uf02.png](./sample_images/AsixMp02Uf02.png)
