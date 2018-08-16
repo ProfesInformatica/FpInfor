@@ -13,15 +13,17 @@
 #Gamificació
 ```
 
-### Exemple etiqueta `#DawMp03Uf04`
+## Exemple
+
+### Etiqueta `#DawMp03Uf04`
 
 ![./sample_images/DawMp03Uf04.png](./sample_images/DawMp03Uf04.png)
 
 ---
 
-# Etiquetes `#FpInfor`
+# Què són les etiquetes `#FpInfor`?
 
-Sistema d’etiquetes (hashtags) per compartir material docent dels cicles formatius de la família d'Informàtica i Comunicacions.
+Són un sistema d’etiquetes *(hashtags)* per compartir material docent dels cicles formatius de la família d'Informàtica i Comunicacions.
 
 Pots compartir el teu material afegint les etiquetes que el descriguin.
 
@@ -31,15 +33,15 @@ Si us plau, respecta la llicència dels material i esmenta l’autor original.
 
 
 
-## Ús i nomenclatura
+# Ús i nomenclatura
 
-Les etiquetes estan organitzades de més general a més concret per facilitar les cerques.
+Les etiquetes estan organitzades de les més generals a les més concretes per facilitar les cerques.
 
-### Etiqueta principal
+## Etiqueta principal
 
 `#FpInfor`
 
-### Cicle
+## Cicle
 `#Cf`
 > Cf son les sigles del cicle formatiu (Smx, Asix, Dam, Daw)
 
@@ -49,7 +51,7 @@ Exemple
 #FpInfor #Smx
 ```
 
-### Mòdul
+## Mòdul
 
 `#CfMpXX`
 > `XX` és el número de mòdul professional, amb **2 dígits**
@@ -57,12 +59,12 @@ Exemple
 Exemples:
 ```
 #FpInfor #SmxMp05
-#FpInfor #AsixMp01 #DamMp01 #DawMp01
 #FpInfor #DamMp10
 #FpInfor #DawMp08
+#FpInfor #AsixMp01 #DamMp01 #DawMp01
 ```
 
-### Unitat formativa
+## Unitat formativa
 
 `#CfMpXXUfYY`
 >  `YY` és el número d’unitat formativa, amb **2 dígits.**
@@ -73,8 +75,8 @@ Exemples:
 #FpInfor #AsixMp10Uf01
 ```
 
-### Àmbit
-Podem etiquetar el material segons l’àmbit a la que pertanyen
+## Àmbit
+Podem etiquetar el material segons l’àmbit al que pertanyen
 
 Exemples:
 ```
@@ -85,7 +87,7 @@ Exemples:
 #FpInfor #Web
 ```
 
-### Altres
+## Altres
 També podem etiquetar el material segons la tecnologia, llenguatge, producte, metodologia didàctica, etc...
 
 Exemples:
@@ -95,7 +97,7 @@ Exemples:
 #FpInfor #Gamificació
 ```
 
-### Unitats formatives equivalents
+## Unitats formatives equivalents
 Cal recordar que els tres cicles formatius de grau superior tenen algunes unitats formatives idèntiques entre els seus mòduls.
 
 Aquestes són totes les equivalències:
@@ -116,7 +118,7 @@ Aquestes són totes les equivalències:
 
 Es recomana posar totes les equivalències.
 
-## Exemples:
+## Més Exemples:
 
 ### Etiqueta `#AsixMp01`
 
