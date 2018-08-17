@@ -19,7 +19,11 @@
 
 ![./sample_images/DawMp03Uf04.png](./sample_images/DawMp03Uf04.png)
 
+<br>
+
 ---
+
+<br>
 
 # Què són les etiquetes `#FpInfor`?
 
